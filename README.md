@@ -1,4 +1,6 @@
-pdxdiy
-======
+My notes for creating Portland Makers Club.
 
-Portland DIY
+todo list:
+-Hone in badges to do during get-togethers.
+-Find a place to meet.
+-Promote the group.
